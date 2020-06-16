@@ -48,7 +48,7 @@ Please refer to the notebook for detailed info on how these individual analysis 
 
 ## Results
 These are the conclusions I found based on my analysis:
-- According to the results produced from each analysis I have performed, all them suggested to stick with the old web page as the increase in conversion rate with new web page does'nt seem be statiscally significant.
+- According to the results produced from each analysis I have performed, all of them suggested to stick with the old web page as the increase in conversion rate with new web page does'nt seem be statiscally significant.
 - However the results can alter if the A/B test is conducted for longer duration.
 
 ## License
