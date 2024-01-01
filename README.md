@@ -13,7 +13,7 @@ For this project, I worked on understanding the results of an A/B test run by an
 
 ## Introduction to A/B testing
 
-!https://i.imgur.com/5PNPn3L.png
+![alt text](https://i.imgur.com/5PNPn3L.png)
 
 A/B testing is one of the common technique used for analyzing which web designs drive more traffic. Many companies use A/B testing to test feature changes, layouts and even colors to increase a metric that measures a interest from the users.
 
