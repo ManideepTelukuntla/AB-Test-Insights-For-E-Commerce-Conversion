@@ -10,13 +10,13 @@
 7. [Results/Conclusions](#resultsconclusions)
 8. [License](#license)
 
-## Introduction/Overview
+## 1. Introduction/Overview
 For this project, I worked on understanding the results of an A/B test run by an e-commerce website. The company has developed a new web page to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. My goal is to work through the test results to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-## Objective
+## 2. Objective
 To analyze A/B test results to determine the more effective web page design for increasing user conversion rates.
 
-## Methodology/Approach
+## 3. Methodology/Approach
 ![alt text](https://i.imgur.com/5PNPn3L.png)
 
 A/B testing is one of the common technique used for analyzing which web designs drive more traffic. Many companies use A/B testing to test feature changes, layouts and even colors to increase a metric that measures a interest from the users.
@@ -39,7 +39,7 @@ My approach includes interpreting the A/B test results to suggest whether or not
 
 Please refer to the `ABTestResultsForEcommerce.ipynb` notebook for detailed info on how these individual analyses are performed.
 
-## Installation/Requirements
+## 4. Installation/Requirements
 The following libraries and tools are used in this project:
 - **Numpy**
 - **Pandas**
@@ -47,14 +47,14 @@ The following libraries and tools are used in this project:
 - **Matplotlib**
 - The code should run with no issues using Python version `3.*.`
 
-## File Descriptions
+## 5. File Descriptions
 This project contains the following files:
 - **`ab_data.csv`**: holds the A/B test results data.
 - **`countries.csv`**: Another file holding country information for each user in `ab_data.csv` file
 - **`ABTestResultsForEcommerce.ipynb`**: Jupyter notebook containing Python code and briefly describing each step.
 - **`ABTestResultsForEcommerce.html`**: HTML version of the notebook.
 
-## Data Collection and Sources
+## 6. Data Collection and Sources
 This project contains two datasets:
 - **`ab_data.csv`**: This file contains the A/B test results. The structure of the file is as follows
   #### File Structure
@@ -66,11 +66,10 @@ This project contains two datasets:
 
 - **`countries.csv`**: This file contains country information corresponding to each user in `ab_data.csv`. It helps in understanding geographical influences in the A/B test results.
 
-## Results/Conclusions
+## 7. Results/Conclusions
 According to the analysis:
 - All analyses suggested sticking with the old web page as the increase in conversion rate with the new web page doesn't seem statistically significant.
 - The results can alter if the A/B test is conducted longer.
 
-## License
+## 8. License
 Licensed under [MIT License](https://github.com/ManideepTelukuntla/InvestigateTMDBMovieData/blob/master/LICENSE)
-
