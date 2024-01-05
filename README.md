@@ -1,14 +1,14 @@
 # Analyze A/B Test Results For E-Commerce Website
 
-# Table of Contents
-1. [Introduction/Overview](#introduction-overview)
-2. [Objective](#objective)
-3. [Methodology/Approach](#methodology-approach)
-4. [Installation/Requirements](#installation-requirements)
-5. [File Descriptions](#file-descriptions)
-6. [Data Collection and Sources](#data-collection-and-sources)
-7. [Results/Conclusions](#results-conclusions)
-8. [License](#license)
+## Table of Contents
+1. [Introduction/Overview](#1-introductionoverview)
+2. [Objective](#2-objective)
+3. [Methodology/Approach](#3-methodologyapproach)
+4. [Installation/Requirements](#4-installationrequirements)
+5. [File Descriptions](#5-file-descriptions)
+6. [Data Collection and Sources](#6-data-collection-and-sources)
+7. [Results/Conclusions](#7-resultsconclusions)
+8. [License](#8-license)
 
 ## 1. Introduction/Overview
 For this project, I worked on understanding the results of an A/B test run by an e-commerce website. The company has developed a new web page to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. My goal is to work through the test results to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
