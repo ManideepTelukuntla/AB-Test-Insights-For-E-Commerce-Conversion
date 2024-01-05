@@ -1,13 +1,13 @@
 # Analyze A/B Test Results For E-Commerce Website
 
 # Table of Contents
-1. [Introduction/Overview](#introductionoverview)
-2. [Objective](#objectives)
-3. [Methodology/Approach](#methodologyapproach)
-4. [Installation/Requirements](#installationrequirements)
+1. [Introduction/Overview](#introduction-overview)
+2. [Objective](#objective)
+3. [Methodology/Approach](#methodology-approach)
+4. [Installation/Requirements](#installation-requirements)
 5. [File Descriptions](#file-descriptions)
 6. [Data Collection and Sources](#data-collection-and-sources)
-7. [Results/Conclusions](#resultsconclusions)
+7. [Results/Conclusions](#results-conclusions)
 8. [License](#license)
 
 ## 1. Introduction/Overview
