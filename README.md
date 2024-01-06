@@ -1,7 +1,7 @@
 # Analyze A/B Test Results For E-Commerce Website
 
 <div align="center">
-  <img src="https://i.imgur.com/5PNPn3L.png" width="800" height="300" alt="Stock Portfolio Optimization">
+  <img src="https://i.imgur.com/5PNPn3L.png" width="800" height="200" alt="Stock Portfolio Optimization">
   <br>
   <p>Image from imgur</p>
 </div>
