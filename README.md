@@ -1,5 +1,11 @@
 # Analyze A/B Test Results For E-Commerce Website
 
+<div align="center">
+  <img src="https://i.imgur.com/5PNPn3L.png" width="800" height="400" alt="Stock Portfolio Optimization">
+  <br>
+  <p>Image from imgur</p>
+</div>
+
 ## Table of Contents
 1. [Introduction/Overview](#1-introductionoverview)
 2. [Objective](#2-objective)
@@ -17,7 +23,6 @@ For this project, I worked on understanding the results of an A/B test run by an
 To analyze A/B test results to determine the more effective web page design for increasing user conversion rates.
 
 ## 3. Methodology/Approach
-![alt text](https://i.imgur.com/5PNPn3L.png)
 
 A/B testing is one of the common technique used for analyzing which web designs drive more traffic. Many companies use A/B testing to test feature changes, layouts and even colors to increase a metric that measures a interest from the users.
 
