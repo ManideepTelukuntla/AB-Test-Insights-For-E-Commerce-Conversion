@@ -56,8 +56,8 @@ The following libraries and tools are used in this project:
 This project contains the following files:
 - **`ab_data.csv`**: holds the A/B test results data.
 - **`countries.csv`**: Another file holding country information for each user in `ab_data.csv` file
-- **`ABTestResultsForEcommerce.ipynb`**: Jupyter notebook containing Python code and briefly describing each step.
-- **`ABTestResultsForEcommerce.html`**: HTML version of the notebook.
+- **`AB-Test-Insights-For-E-Commerce-Conversion.ipynb`**: Jupyter notebook containing Python code and briefly describing each step.
+- **`AB-Test-Insights-For-E-Commerce-Conversion.html`**: HTML version of the notebook.
 
 ## 6. Data Collection and Sources
 This project contains two datasets:
